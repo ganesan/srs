@@ -1,0 +1,6 @@
+
+rvm --create --rvmrc ruby-1.9.2@srs
+
+gem install rails
+
+
